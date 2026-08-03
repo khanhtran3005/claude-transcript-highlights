@@ -16,7 +16,7 @@ Handles `.docx`, `.txt`, `.vtt`, and `.srt` transcripts (Zoom, Teams, Otter, Fir
 
 From within Claude Code, first add the marketplace:
 ```
-/plugin marketplace add <your-github-username>/claude-transcript-highlights
+/plugin marketplace add khanhtran3005/claude-transcript-highlights
 ```
 
 Then install the plugin:
