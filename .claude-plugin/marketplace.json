@@ -1,0 +1,24 @@
+{
+  "name": "claude-transcript-highlights",
+  "id": "claude-transcript-highlights",
+  "owner": {
+    "name": "Khanh Tran"
+  },
+  "metadata": {
+    "description": "Extracts decisions, action items, and open questions from meeting/call transcripts into a traceable markdown summary.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-transcript-highlights",
+      "source": "./",
+      "description": "Extracts decisions, action items, and open questions from meeting/call transcripts, each traceable to its source timestamp and quote.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Khanh Tran"
+      },
+      "keywords": ["meeting-notes", "transcript", "summarization", "action-items", "decisions"],
+      "category": "productivity"
+    }
+  ]
+}
