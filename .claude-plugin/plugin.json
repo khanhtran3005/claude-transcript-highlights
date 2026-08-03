@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Extracts decisions, action items, and open questions from meeting/call transcripts into a traceable markdown summary.",
   "author": {
-    "name": "Khanh Tran",
-    "email": "[redacted]"
+    "name": "Khanh Tran"
   },
   "license": "MIT",
   "keywords": ["meeting-notes", "transcript", "summarization", "action-items", "decisions"]
